@@ -1,0 +1,12 @@
+{
+  "name": "demo-99-18-http-server",
+  "version": "1.0.0",
+  "description": "API for my study",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Chakhalian",
+  "license": "ISC"
+}
